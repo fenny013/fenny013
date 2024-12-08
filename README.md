@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="left">HIIIIII</h1>
 
-<!--
-**fenny013/fenny013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">
+  You can contact me on <a href='https://discord.com/invite/9fmykNpy4S'>Discord</a> or at <a href='https://t.me/fenny13'>Telegram</a>
+</h3>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=YAAAAEEEEAASFDRFWJTJKRHKJJKJTHGTWT)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![face-hh](https://github-readme-stats.vercel.app/api?username=fenny013&show_icons=true&theme=tokyonight)
+
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=fenny013&show_icons=true&theme=tokyonight&layout=compact)
