@@ -6,7 +6,14 @@
   </a>
 </p>
 
-<p align="center">―――――――――――――――</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fenny013/fenny013/main/point.svg" width="24" height="24">
+  <img src="https://raw.githubusercontent.com/fenny013/fenny013/main/point.svg" width="24" height="24">
+  <img src="https://raw.githubusercontent.com/fenny013/fenny013/main/point.svg" width="24" height="24">
+  <img src="https://raw.githubusercontent.com/fenny013/fenny013/main/point.svg" width="24" height="24">
+  <img src="https://raw.githubusercontent.com/fenny013/fenny013/main/point.svg" width="24" height="24">
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
